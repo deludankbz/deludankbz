@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/43574844?v=4"  />
+
 
 ###
 
